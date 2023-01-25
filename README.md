@@ -1,15 +1,15 @@
 # PivotPoint Design System
 
-Headless design system tokens generated from Figma using the Figma Tokens plugin.
+Headless design system tokens generated from Figma using the [Tokens Studio for Figma](https://docs.tokens.studio/) plugin.
 
 ## Editing tokens
 
-Use Figma to edit the tokens. You'll need the [Figma Tokens](https://docs.tokens.studio/) plugin installed, and configured to sync with this GitHub repo.
+Use Figma to edit the tokens. You'll need the [Tokens Studio for Figma](https://docs.tokens.studio/) plugin installed, and configured to sync with this GitHub repo.
 
-1. [Install](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) the Figma Tokens plugin
+1. [Install](https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens) the Tokens Studio for Figma plugin
 2. Generate a new Personal Access Token in [GitHub Developer Settings](https://github.com/settings/tokens) with scope `repo`
 3. Copy the access token (you can only see it once)
-4. In the Figma Tokens plugin, under `Settings > Token Storage > GitHub`, add new credentials:
+4. In the Tokens Studio for Figma plugin, under `Settings > Token Storage > GitHub`, add new credentials:
      - Name: `PivotPoint Design System`
      - Personal Access Token: `your token`
      - Repository: `chandler-heath/pivotpoint-design-system`
